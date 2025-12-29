@@ -1,5 +1,8 @@
 # Monitor Búho 🦉
 
+<img width="768" height="279" alt="image" src="https://github.com/user-attachments/assets/fb33e716-9b3a-42cb-bd6a-73260fecb0bc" />
+
+
 Herramienta educativa escrita en Python para verificar la conectividad y tiempo de respuesta de sitios web.
 
 ## 🚀 Instalación Rápida
